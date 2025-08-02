@@ -16,3 +16,4 @@ An exploratory data analysis of customer transactions from a UK-based online ret
 ## 📈 Dashboard Link
 👉 [View Tableau Dashboard](https://public.tableau.com/views/SalesProductPerformance-2010-2011/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
+![Dashboard Preview](https://github.com/Ashvinaahrr/online_retail/blob/main/data/Dashboard%201%20(1).png)
